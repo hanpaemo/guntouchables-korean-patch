@@ -1,0 +1,32 @@
+# Build artifacts
+patch/
+plugin/obj/
+plugin/bin/
+managed_runtime/obj/
+managed_runtime/bin/
+assembly_patch/obj/
+assembly_patch/bin/
+*.pdb
+
+# Distribution archive
+*.zip
+
+# Python
+.venv/
+__pycache__/
+
+# Output dumps
+output/
+
+# Lib (compile-time references)
+lib/
+
+# Blog draft
+blog-post.html
+/blog_hero.png
+
+# Root screenshots (duplicated in assets/)
+/[0-9].jpg
+
+# Internal docs
+black-humor-review.md
