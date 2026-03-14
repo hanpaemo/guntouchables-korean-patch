@@ -64,7 +64,7 @@ Some call Alfred paranoid, and he might still think this is all just a simulatio
 50306307297372,title_weapon_gel launcher,Gel Launcher,凝胶发射器,겔 발사기
 50306307297373,description_weapon_gel launcher,"Fires a canister of sticky gel that will stick to most surfaces. The gel turns solid when it comes into contact with air, but will explode if it takes damage",能发射粘稠的凝胶，可以粘在大多数物体表面。这种凝胶与空气接触时会变成固体，但如果受到损坏就会爆炸,"끈적한 겔 캐니스터를 발사한다. 대부분의 표면에 달라붙으며, 공기와 접촉하면 굳지만 피해를 받으면 폭발"
 50306307297374,title_weapon_fire launcher,Fire Launcher,火焰发射器,화염 발사기
-50306307297375,description_weapon_fire launcher,"Launch a <style=""Fire""> fire</style> grenade that will ignite targets and leave a blaze behind","发射<style=""Fire"">火焰</style>手雷，能点燃目标，暂时造成地面燃烧","<style=""Fire""> 화염</style> 수류탄을 발사하여 대상을 점화하고 불길을 남긴다"
+50306307297375,description_weapon_fire launcher,"Launch a <style=""Fire""> fire</style> grenade that will ignite targets and leave a blaze behind","发射<style=""Fire"">火焰</style>手雷，能点燃目标，暂时造成地面燃烧","<style=""Fire""> 화염</style> 수류탄을 발사하여 대상을 점화하고 불길을 남김"
 50306307297376,title_weapon_ice launcher,Ice Launcher,冰霜发射器,빙결 발사기
 50306307297377,description_weapon_ice launcher,"Launch an <style=""Ice""> ice</style> grenade that will freeze (slow & weaken) targets.","发射<style=""Ice"">冰冻</style>手雷，能冻结（减慢&弱化）目标。","<style=""Ice""> 빙결</style> 수류탄을 발사하여 대상을 동결(둔화 & 약화)시킨다."
 8776452733636608,damage,Damage,伤害,피해량
@@ -76,7 +76,7 @@ Some call Alfred paranoid, and he might still think this is all just a simulatio
 8794891149873153,title_weapon_shuttlecock launcher,Shuttlecock Launcher,羽毛球发射器,셔틀콕 발사기
 8794891149873154,description_weapon_shuttlecock launcher,Launches a shuttlecock—don't expect too much.,能发射羽毛球——别指望它能派上太大用场。,셔틀콕을 발사한다—기대는 하지 말고.
 8794891149873155,title_weapon_batshot,Batshot,蝙蝠之嗜,배트샷
-8794891149873156,description_weapon_batshot,Heals the shooter when they hit an enemy,击中敌人时治疗射手,적을 맞추면 사수를 치유한다
+8794891149873156,description_weapon_batshot,Heals the shooter when they hit an enemy,击中敌人时治疗射手,적을 맞추면 사수를 치유함
 8794891149873157,title_weapon_dragon,Dragon,潜龙逐日,드래곤
 8794891149873158,description_weapon_dragon,"Set your enemies ablaze with <style=""Fire""> incendiary</style> rounds.","用<style=""Fire"">燃烧</style>弹点燃你的敌人。","<style=""Fire""> 소이</style> 탄환으로 적을 불태워라."
 8795786705080320,title_perk_minimap,Mini-map,小地图,미니맵
@@ -166,23 +166,23 @@ Some call Alfred paranoid, and he might still think this is all just a simulatio
 32687882885214215,title_perk_fire_buff,Fire damage buff,火焰伤害增益,화염 피해 강화
 32687882885214216,description_perk_fire_buff,"<style=""Fire""> Fire</style> burns <style=""Green"">{0}</style> longer and fire damage is increased by <style=""Green"">{1}</style>","<style=""Fire""> 火焰</style>持续燃烧<style=""Green"">{0}</style>更久，火焰伤害提高<style=""Green"">{1}</style>","<style=""Fire""> 화염</style>이 <style=""Green"">{0}</style> 더 오래 타오르며 화염 피해가 <style=""Green"">{1}</style> 증가"
 32687882885214217,title_perk_lightning_buff,Lightning buff,电击增益,전기 강화
-32687882885214218,description_perk_lightning_buff,"<style=""Lightning""> Chain lightning</style> jumps to <style=""Green"">{0}</style> targets","<style=""Lightning"">链式闪电</style>会跳到<style=""Green"">{0}</style>个目标身上","<style=""Lightning""> 연쇄 전격</style>이 <style=""Green"">{0}</style>개의 대상으로 연쇄된다"
+32687882885214218,description_perk_lightning_buff,"<style=""Lightning""> Chain lightning</style> jumps to <style=""Green"">{0}</style> targets","<style=""Lightning"">链式闪电</style>会跳到<style=""Green"">{0}</style>个目标身上","<style=""Lightning""> 연쇄 전격</style>이 <style=""Green"">{0}</style>개의 대상으로 연쇄됨"
 32687882885214219,title_perk_ice_buff,Ice buff,冰冻增益,빙결 강화
-32687882885214220,description_perk_ice_buff,"<style=""Ice""> Ice</style> slows <style=""Green"">{0}</style> more","<style=""Ice"">冰冻</style>减缓敌人速度<style=""Green"">{0}</style>","<style=""Ice""> 빙결</style> 둔화가 <style=""Green"">{0}</style> 더 강해진다"
+32687882885214220,description_perk_ice_buff,"<style=""Ice""> Ice</style> slows <style=""Green"">{0}</style> more","<style=""Ice"">冰冻</style>减缓敌人速度<style=""Green"">{0}</style>","<style=""Ice""> 빙결</style> 둔화가 <style=""Green"">{0}</style> 더 강해짐"
 32687882885214225,title_perk_health_bonus,Health buff,血量增益,체력 강화
-32687882885214226,description_perk_health_bonus,"You have <style=""Green"">{0}</style> max HP","你的最高生命值为<style=""Green"">{0}</style>","최대 체력이 <style=""Green"">{0}</style>이다"
+32687882885214226,description_perk_health_bonus,"You have <style=""Green"">{0}</style> max HP","你的最高生命值为<style=""Green"">{0}</style>","최대 체력 <style=""Green"">{0}</style>"
 32687882885214227,title_perk_speed_bonus,Speed buff,速度增益,속도 강화
 32687882885214228,description_perk_speed_bonus,"Movement, reviving, and consumable placement speed is <style=""Green"">{0}</style> faster","移动，复活和消耗品放置速度增加<style=""Green"">{0}</style>","이동, 부활 및 소모품 배치 속도가 <style=""Green"">{0}</style> 빨라짐"
 32687882885214229,title_perk_pistol_ammo,Pistol Ammo,手枪弹药,권총 탄약
-32687882885214230,description_perk_pistol_ammo,"Carry <style=""Green"">{0}</style> more pistol ammo","携带的手枪弹药增加 <style=""Green"">{0}</style>","권총 탄약을 <style=""Green"">{0}</style> 더 휴대한다"
+32687882885214230,description_perk_pistol_ammo,"Carry <style=""Green"">{0}</style> more pistol ammo","携带的手枪弹药增加 <style=""Green"">{0}</style>","권총 탄약을 <style=""Green"">{0}</style> 더 휴대"
 32687882885214231,title_perk_shotgun_ammo,Shotgun Ammo,霰弹枪弹药,산탄총 탄약
-32687882885214232,description_perk_shotgun_ammo,"Carry <style=""Green"">{0}</style> more shotgun ammo","携带的霰弹枪弹药增加 <style=""Green"">{0}</style>","산탄총 탄약을 <style=""Green"">{0}</style> 더 휴대한다"
+32687882885214232,description_perk_shotgun_ammo,"Carry <style=""Green"">{0}</style> more shotgun ammo","携带的霰弹枪弹药增加 <style=""Green"">{0}</style>","산탄총 탄약을 <style=""Green"">{0}</style> 더 휴대"
 32687882885214233,title_perk_machinegun_ammo,Machine Gun Ammo,机枪弹药,기관총 탄약
-32687882885214234,description_perk_machinegun_ammo,"Carry <style=""Green"">{0}</style> more machine gun ammo","携带的机枪弹药增加 <style=""Green"">{0}</style>","기관총 탄약을 <style=""Green"">{0}</style> 더 휴대한다"
+32687882885214234,description_perk_machinegun_ammo,"Carry <style=""Green"">{0}</style> more machine gun ammo","携带的机枪弹药增加 <style=""Green"">{0}</style>","기관총 탄약을 <style=""Green"">{0}</style> 더 휴대"
 32687882885214235,title_perk_rifle_ammo,Rifle Ammo,步枪弹药,소총 탄약
-32687882885214236,description_perk_rifle_ammo,"Carry <style=""Green"">{0}</style> more rifle ammo","携带的步枪弹药增加 <style=""Green"">{0}</style>","소총 탄약을 <style=""Green"">{0}</style> 더 휴대한다"
+32687882885214236,description_perk_rifle_ammo,"Carry <style=""Green"">{0}</style> more rifle ammo","携带的步枪弹药增加 <style=""Green"">{0}</style>","소총 탄약을 <style=""Green"">{0}</style> 더 휴대"
 32687882885214237,title_perk_launcher_ammo,Launcher Ammo,发射器弹药,발사기 탄약
-32687882885214238,description_perk_launcher_ammo,"Carry <style=""Green"">{0}</style> more launcher ammo","携带的发射器弹药增加 <style=""Green"">{0}</style>","발사기 탄약을 <style=""Green"">{0}</style> 더 휴대한다"
+32687882885214238,description_perk_launcher_ammo,"Carry <style=""Green"">{0}</style> more launcher ammo","携带的发射器弹药增加 <style=""Green"">{0}</style>","발사기 탄약을 <style=""Green"">{0}</style> 더 휴대"
 32687882885214239,title_perk_stamina_increase,Increase maximum stamina,增加最大耐力,최대 스태미나 증가
 32687882885214240,description_perk_stamina_increase,"Increase stamina to <style=""Green"">{0}</style>.","耐力增加至<style=""Green"">{0}</style>","스태미나가 <style=""Green"">{0}</style>까지 증가."
 32687882885214249,title_perk_damage_reduction,Reduce damage taken,减少所受伤害,피해 감소
@@ -206,7 +206,7 @@ Some call Alfred paranoid, and he might still think this is all just a simulatio
 32687882885214267,title_perk_shovel_hipfire,Hip Fire,臀部射击,힙파이어
 32687882885214268,description_perk_shovel_hipfire,"Firing a pistol increases your Reload speed by <style=""Green"">{0}</style> for {1}s. (Stackable)","用手枪射击，增加<style=""Green"">{0}</style>装填速度，持续{1}秒。（可叠加）","권총 발사 시 장전 속도가 <style=""Green"">{0}</style> 증가하며 {1}초 지속된다. (중첩 가능)"
 32687882885214269,title_perk_cattleprod,Cattle Prod,牛刺,소몰이봉
-32687882885214270,description_perk_cattleprod,"Replaces the shovel with a cattle prod that deals <style=""Lightning""> lightning</style> damage","将铲子替换为用能造成<style=""Lightning"">电击</style>伤害的牛刺","삽을 <style=""Lightning""> 전기</style> 피해를 주는 소몰이봉으로 교체한다"
+32687882885214270,description_perk_cattleprod,"Replaces the shovel with a cattle prod that deals <style=""Lightning""> lightning</style> damage","将铲子替换为用能造成<style=""Lightning"">电击</style>伤害的牛刺","삽을 <style=""Lightning""> 전기</style> 피해를 주는 소몰이봉으로 교체"
 32687882885214271,title_perk_runandgun,Run and Gun,跑打,달리며 쏴
 32687882885214272,description_perk_runandgun,No movement penalty when shooting,移除移动射击减益,이동 중 사격 시 이동 속도 페널티가 없다
 32687882885214273,title_perk_trigger_happy,Trigger Happy,战斗爽,방아쇠 광
@@ -215,12 +215,12 @@ Some call Alfred paranoid, and he might still think this is all just a simulatio
 32687882885214276,description_perk_long_shot,"Hitting an enemy from a long distance increases damage by up to <style=""Green"">{0}</style>","远距离攻击敌人时增加伤害，最高可达<style=""Green"">{0}</style>","먼 거리에서 적을 맞추면 피해가 최대 <style=""Green"">{0}</style>까지 증가"
 32687882885214277,title_perk_takedown,Takedown,杀心骤起,테이크다운
 32687882885214278,description_perk_takedown,"Killing an enemy with a rifle increases damage by <style=""Green"">{0}</style> for {1}s (stackable)","用步枪击杀敌人时增加伤害<style=""Green"">{0}</style>，持续{1}秒（可叠加）","소총으로 적을 처치하면 피해가 <style=""Green"">{0}</style> 증가하며 {1}초 지속된다 (중첩 가능)"
-32687882885214279,title_perk_succor,Juiced Up!,燥起来！,즙까지 짜이지!
+32687882885214279,title_perk_succor,Juiced Up!,燥起来！,즙까지 짜야지!
 32687882885214280,description_perk_succor,"Hurting an enemy with the saw gives <style=""Green"">{0}</style> temporary HP","用电锯集中敌人会增加<style=""Green"">{0}</style>临时生命值","톱으로 적을 타격하면 <style=""Green"">{0}</style>의 임시 체력을 획득"
 32687882885214283,title_perk_doctors_order,Doctor's Orders,医嘱,의사의 처방
 32687882885214284,description_perk_doctors_order,You start each new mission with a medkit,新任务开始时携带一个医疗包,새 임무 시작 시 의료 키트를 소지한다
 32687882885214291,title_perk_specialist,Specialist,专家,전문가
-32687882885214292,description_perk_specialist,"Having two weapons with the same ammo type gives <style=""Green"">200%</style> ammo capacity","两种武器的弹药类型相同时，武器的弹容量为<style=""Green"">200%</style>","같은 탄약 유형의 무기 두 자루를 보유하면 탄약 용량이 <style=""Green"">200%</style>가 된다"
+32687882885214292,description_perk_specialist,"Having two weapons with the same ammo type gives <style=""Green"">200%</style> ammo capacity","两种武器的弹药类型相同时，武器的弹容量为<style=""Green"">200%</style>","같은 탄약 유형의 무기 두 자루를 보유하면 탄약 용량 <style=""Green"">200%</style>"
 32687882885214293,title_perk_rapidfire,Rapid-fire,快速射击,속사
 32687882885214294,description_perk_rapidfire,"<style=""Green"">{0}</style> increased rate of fire {1}s after reloading","换弹后射速增加<style=""Green"">{0}</style>，持续{1}秒","장전 후 {1}초 동안 연사 속도가 <style=""Green"">{0}</style> 증가"
 33048659212152832,ui_click to copy,Click to copy,点击以复制,클릭하여 복사
@@ -268,7 +268,7 @@ Some call Alfred paranoid, and he might still think this is all just a simulatio
 42433329807724599,title_enemy upgrade_thick skin,Thick Skin,厚甲壳,두꺼운 가죽
 42433329807724600,description_enemy upgrade_thick skin,Mutant has 50% more HP but becomes slower,变异体的生命值增加50%，但速度变慢,변이체의 체력이 50% 증가하지만 속도가 느려짐
 42433329807724601,title_enemy upgrade_last resort,Last Resort,最后手段,최후의 수단
-42433329807724602,description_enemy upgrade_last resort,"Mutant explodes when dying, causing damage to nearby players",变种人在死亡时会自爆，对附近的玩家造成伤害,변이체가 사망 시 폭발하여 주변 플레이어에게 피해를 준다
+42433329807724602,description_enemy upgrade_last resort,"Mutant explodes when dying, causing damage to nearby players",变种人在死亡时会自爆，对附近的玩家造成伤害,변이체가 사망 시 폭발하여 주변 플레이어에게 피해를 줌
 42433329807724603,title_enemy upgrade_fast feet,Fast Feet,步伐迅速,빠른 발
 42433329807724604,description_enemy upgrade_fast feet,Mutant moves faster,变种人速度更快,변이체가 더 빨리 움직인다
 42433329807724609,title_enemy upgrade_regeneration,Regeneration,恢复,재생
@@ -288,7 +288,7 @@ Some call Alfred paranoid, and he might still think this is all just a simulatio
 42433329811918853,title_enemy upgrade_fast fire,Fast Fire,速射,속사
 42433329811918854,description_enemy upgrade_fast fire,Mutant attack speed increases,变种人攻击速度增加,변이체 공격 속도 증가
 42433329811918855,title_enemy upgrade_explosive,Explosive,炸药,폭발물
-42433329811918856,description_enemy upgrade_explosive,Changes mutant's attack from a regular projectile into a grenade that explodes and deals elemental AoE damage to nearby targets,变种人的攻击从普通的投射物变成手雷，会爆炸并对附近目标造成带有元素效果的范围伤害,변이체 공격이 일반 투사체에서 폭발하는 수류탄으로 변경되어 주변 대상에게 원소 범위 피해를 준다
+42433329811918856,description_enemy upgrade_explosive,Changes mutant's attack from a regular projectile into a grenade that explodes and deals elemental AoE damage to nearby targets,变种人的攻击从普通的投射物变成手雷，会爆炸并对附近目标造成带有元素效果的范围伤害,변이체 공격이 일반 투사체에서 폭발하는 수류탄으로 변경되어 주변 대상에게 원소 범위 피해를 줌
 42433359977353216,ui_leave game,Leave,离开,떠나기
 42436837911007232,ui_feedback button,Give Feedback,给予反馈,피드백 보내기
 43202465526755328,title_item_crate,<color=#00AD62>Green</color> Crate,<color=#00AD62>绿色</color>箱,<color=#00AD62>초록</color> 보급 상자
@@ -486,11 +486,11 @@ Some call Alfred paranoid, and he might still think this is all just a simulatio
 92761021490388992,ammo_replenished,Ammo Replenished,已补充弹药,탄약 보충 완료
 92929725690097664,weapon_compare,Buy,购买,구매
 93188807474884608,title_perk_well_rested,Well rested,好好休息,숙면
-93188807512633344,description_perk_well_rested,"Deal <style=""Green"">{0}</style> more damage for each temporary HP","每点临时生命值增加<style=""Green"">{0}</style>伤害","임시 체력 1당 <style=""Green"">{0}</style>의 추가 피해를 준다"
+93188807512633344,description_perk_well_rested,"Deal <style=""Green"">{0}</style> more damage for each temporary HP","每点临时生命值增加<style=""Green"">{0}</style>伤害","임시 체력 1당 <style=""Green"">{0}</style>의 추가 피해를 줌"
 93291072017739776,title_perk_uber_charge,Über charge,超级加血,과충전
 93291072051294208,description_perk_uber_charge,"HP can go above the max, but depletes to normal over time",生命值可以突破上限，但会逐渐减少到正常水平,체력이 최대치를 초과할 수 있지만 시간이 지남에 따라 정상으로 감소
 93291072051294209,title_perk_sharing_is_caring,Sharing is caring,亲情关怀,나눔은 사랑
-93291072051294210,description_perk_sharing_is_caring,"When using a medkit, players nearby receive <style=""Green"">{0}</style> temporary HP","使用医疗包时，附近玩家会获得<style=""Green"">{0}</style>临时生命值","의료 키트 사용 시 주변 플레이어가 <style=""Green"">{0}</style>의 임시 체력을 얻는다"
+93291072051294210,description_perk_sharing_is_caring,"When using a medkit, players nearby receive <style=""Green"">{0}</style> temporary HP","使用医疗包时，附近玩家会获得<style=""Green"">{0}</style>临时生命值","의료 키트 사용 시 주변 플레이어가 <style=""Green"">{0}</style>의 임시 체력 획득"
 93526596396834816,get,Get,离,떠
 93526596417806336,out,Out,开,나라
 96046802830680064,alert_runingOutOfTime_1minute,1 minute,1分钟,1분
@@ -512,9 +512,9 @@ Some call Alfred paranoid, and he might still think this is all just a simulatio
 98248117564006405,shop_rocket launchers,Rocket Launchers,火箭发射器,로켓 발사기
 98248117564006406,shop_consumables,Consumables,消耗品,소모품
 100081237031948288,title_perk_hotshot,Hotshot,火力爱好者,핫샷
-100081237052919808,description_perk_hotshot,"<style=""Green"">{0}</style> discount on machine guns and shotguns in the shop","商店里的机枪和霰弹枪享受<style=""Green"">{0}</style>折扣","상점에서 기관총과 산탄총이 <style=""Green"">{0}</style> 할인된다"
+100081237052919808,description_perk_hotshot,"<style=""Green"">{0}</style> discount on machine guns and shotguns in the shop","商店里的机枪和霰弹枪享受<style=""Green"">{0}</style>折扣","상점에서 기관총과 산탄총이 <style=""Green"">{0}</style> 할인"
 100087246936903680,title_perk_marksman,Marksman,狙击手,명사수
-100087246936903681,description_perk_marksman,"<style=""Green"">{0}</style> discount on rifles in the shop","商店里的步枪享受<style=""Green"">{0}</style>折扣","상점에서 소총이 <style=""Green"">{0}</style> 할인된다"
+100087246936903681,description_perk_marksman,"<style=""Green"">{0}</style> discount on rifles in the shop","商店里的步枪享受<style=""Green"">{0}</style>折扣","상점에서 소총이 <style=""Green"">{0}</style> 할인"
 101131264388837376,title_perk_medicwithoutborders,Resilient,弹性防御,단단한 몸
 101131264434974720,description_perk_medicwithoutborders,You start the game with body armor,开始游戏时携带身体护甲,게임 시작 시 방탄복을 소지한다
 101183087803969536,title_perk_armor,Body armor,身体护甲,방탄복
@@ -526,22 +526,22 @@ Some call Alfred paranoid, and he might still think this is all just a simulatio
 102947009728778240,description_perk_luck_increase,"Luck based upgrades have a <style=""Green"">{0}</style> chance to succeed","通过运气进行的升级有 <style=""Green"">{0}</style> 几率成功","행운 기반 업그레이드의 성공 확률이 <style=""Green"">{0}</style> 증가"
 102947163403882496,title_perk_luck_increase,Lucky,幸运儿,행운아
 103292756315770880,title_perk_lucky_reload,Lucky Reload,幸运装填,행운의 장전
-103292924612218880,description_perk_lucky_reload,"Every time you reload there is a <style=""Chance"">Chance</style> it won’t consume ammo","每次重新装填都有　<style=""Chance"">几率</style>　不会消耗弹药","장전할 때마다 <style=""Chance"">확률</style>로 탄약을 소모하지 않는다"
+103292924612218880,description_perk_lucky_reload,"Every time you reload there is a <style=""Chance"">Chance</style> it won’t consume ammo","每次重新装填都有　<style=""Chance"">几率</style>　不会消耗弹药","장전할 때마다 <style=""Chance"">확률</style>로 탄약을 소모 안 함"
 103353242256314368,title_perk_smooth_operator,Smooth Operator,手术高手,신의 손
-103353367036858368,description_perk_smooth_operator,"When using a medkit, there is a <style=""Chance"">Chance</style> it will not deplete","当使用医疗箱时，有　<style=""Chance"">几率</style>　不耗尽医疗箱","의료 키트 사용 시 <style=""Chance"">확률</style>로 소모되지 않는다"
+103353367036858368,description_perk_smooth_operator,"When using a medkit, there is a <style=""Chance"">Chance</style> it will not deplete","当使用医疗箱时，有　<style=""Chance"">几率</style>　不耗尽医疗箱","의료 키트 사용 시 <style=""Chance"">확률</style>로 소모 안 됨"
 103682049846579200,title_perk_counter_attack,Counter Attack,反击,반격
-103682354936057856,description_perk_counter_attack,"You have a <style=""Chance"">Chance</style> to reflect incoming melee damage","有 <style=""Chance"">几率</style> 反射遭受的近战伤害","<style=""Chance"">확률</style>로 받은 근접 피해를 반사한다"
+103682354936057856,description_perk_counter_attack,"You have a <style=""Chance"">Chance</style> to reflect incoming melee damage","有 <style=""Chance"">几率</style> 反射遭受的近战伤害","<style=""Chance"">확률</style>로 받은 근접 피해를 반사"
 103682537467973632,title_perk_two_birds_one_stone,"Two birds, one stone",一石二鸟,일석이조
-103682693206675456,description_perk_two_birds_one_stone,"Hitting two or more targets with a rifle shot has a <style=""Chance"">Chance</style> to cost no ammo","用步枪一发击中两个或两个以上目标时，有 <style=""Chance"">几率</style> 不消耗弹药","소총 한 발로 두 명 이상의 대상을 맞추면 <style=""Chance"">확률</style>로 탄약을 소모하지 않는다"
+103682693206675456,description_perk_two_birds_one_stone,"Hitting two or more targets with a rifle shot has a <style=""Chance"">Chance</style> to cost no ammo","用步枪一发击中两个或两个以上目标时，有 <style=""Chance"">几率</style> 不消耗弹药","소총 한 발로 두 명 이상의 대상을 맞추면 <style=""Chance"">확률</style>로 탄약을 소모 안 함"
 103682935058632704,title_perk_one_in_the_chamber,One in the chamber,暗藏杀机,약실의 한 발
-103683054663405568,description_perk_one_in_the_chamber,"The rifle has a <style=""Chance"">Chance</style> that the next shot will have <style=""Green"">100%</style> bullet penetration","使用步枪时有<style=""Chance"">几率</style>打出<style=""Green"">100%</style>穿透效果","소총 사용 시 <style=""Chance"">확률</style>로 다음 발이 <style=""Green"">100%</style> 관통 효과를 가진다"
+103683054663405568,description_perk_one_in_the_chamber,"The rifle has a <style=""Chance"">Chance</style> that the next shot will have <style=""Green"">100%</style> bullet penetration","使用步枪时有<style=""Chance"">几率</style>打出<style=""Green"">100%</style>穿透效果","소총 사용 시 <style=""Chance"">확률</style>로 다음 발이 <style=""Green"">100%</style> 관통"
 103685652321701888,title_perk_resourceful,Resourceful,足智多谋,수완가
-103685737210220544,description_perk_resourceful,"Killing an enemy has a <style=""Chance"">Chance</style> to reload <style=""Green"">{0}</style> ammo in your equipped weapon","击杀敌人后，有<style=""Chance"">几率</style>将配备的武器补充<style=""Green"">{0}</style>弹药","적 처치 시 <style=""Chance"">확률</style>로 장착 무기에 탄약 <style=""Green"">{0}</style>을 보충한다"
+103685737210220544,description_perk_resourceful,"Killing an enemy has a <style=""Chance"">Chance</style> to reload <style=""Green"">{0}</style> ammo in your equipped weapon","击杀敌人后，有<style=""Chance"">几率</style>将配备的武器补充<style=""Green"">{0}</style>弹药","적 처치 시 <style=""Chance"">확률</style>로 장착 무기에 탄약 <style=""Green"">{0}</style>을 보충"
 105104008237060096,gameover_crates_collected,Crates collected:,已收集箱子：,수집한 보급 상자:
 105149183577894912,title_perk_firegrenade,Fire Grenades,火焰手雷,화염 수류탄
-105149183628226560,description_perk_firegrenade,"Upgrade your grenades to become <style=""Fire""> fire grenades </style>","将手雷升级为<style=""Fire"">火焰手雷</style>","수류탄을 <style=""Fire""> 화염 수류탄</style>으로 업그레이드한다"
+105149183628226560,description_perk_firegrenade,"Upgrade your grenades to become <style=""Fire""> fire grenades </style>","将手雷升级为<style=""Fire"">火焰手雷</style>","수류탄을 <style=""Fire""> 화염 수류탄</style>으로 업그레이드"
 105153534388154368,title_perk_grenadebelt,Grenade Belt,手雷腰带,수류탄 벨트
-105153534388154369,description_perk_grenadebelt,"You can carry up to <style=""Green"">{0}</style> grenades","可以携带最多<style=""Green"">{0}</style>个手雷","수류탄을 최대 <style=""Green"">{0}</style>개까지 휴대할 수 있다"
+105153534388154369,description_perk_grenadebelt,"You can carry up to <style=""Green"">{0}</style> grenades","可以携带最多<style=""Green"">{0}</style>个手雷","수류탄을 최대 <style=""Green"">{0}</style>개까지 휴대 가능"
 105463344936837120,alert_newCrateDropping_Top,New Crate,新箱子,새 보급 상자
 105463344957808640,alert_newCrateDropping_Bottom,Drop,掉落,투하
 107687484404568064,title_enemy upgrade_crawler_elemental poison,Bile Crawler,胆汁爬行者,담즙 크롤러
@@ -559,9 +559,9 @@ Some call Alfred paranoid, and he might still think this is all just a simulatio
 126656421677051904,title_perk_wildfire,Wildfire,野火,들불
 126656421723189248,description_perk_wildfire,"<style=""Fire""> Ignited enemies</style> have a <style=""Chance"">Chance</style> to explode when they die, igniting nearby enemies","<style=""Fire"">被点燃的敌人</style>在死亡时<style=""Chance"">有几率</style>爆炸，并点燃附近敌人","<style=""Fire"">불붙은 적</style>이 사망 시 <style=""Chance"">확률</style>로 폭발하여 주변 적을 점화"
 126656421723189249,title_perk_frostbite,Frostbite,冰冻,동상
-126656421723189250,description_perk_frostbite,"Common enemies are completely trapped when <style=""Ice""> frozen</style>","普通敌人被<style=""Ice"">冰冻</style>时完全不能动","일반 적이 <style=""Ice""> 동결</style> 시 완전히 움직이지 못한다"
+126656421723189250,description_perk_frostbite,"Common enemies are completely trapped when <style=""Ice""> frozen</style>","普通敌人被<style=""Ice"">冰冻</style>时完全不能动","일반 적이 <style=""Ice""> 동결</style> 시 완전히 움직이지 못함"
 128793286064549888,title_perk_armorbuff,Improved armor,强化护甲,강화 방탄복
-128793286106492928,description_perk_armorbuff,Body armor gives more protection,身体护甲会给予更强的防护效果,방탄복이 더 강력한 보호 효과를 준다
+128793286106492928,description_perk_armorbuff,Body armor gives more protection,身体护甲会给予更强的防护效果,방탄복이 더 강력한 보호 효과를 줌
 140657314528550912,shop_gunmod,Gun Mods,枪械模组,총기 개조
 140657314549522432,shop_weapon,Weapons,武器,무기
 141358298569433088,weapon_select,Equip,装备,장착
@@ -651,11 +651,11 @@ I'll be waiting for you at the <nobr><sprite=25 color=#ffd500><style=Exit>car</s
 171522888951193600,extra_reward_goldencrate,A Green Crate will be replaced with a <style=Upgrade>Golden Crate</style> on the next level.,下个关卡中，一个绿色箱会被替换为<style=Upgrade>金色箱</style>。,다음 레벨에서 초록 보급 상자 하나가 <style=Upgrade>황금 보급 상자</style>로 교체된다.
 171912657812119552,ui_ability_warning,"You already have an ability, do you want to replace it?",你已经有了一种能力，你想替换它吗？,이미 능력을 보유하고 있습니다. 교체하시겠습니까?
 172242188234186752,title_perk_sharing_is_caring_ii,Sharing is caring II,亲情关怀II,나눔은 사랑 II
-172242188255158272,description_perk_sharing_is_caring_ii,"Using a medkit has a <style=""Chance"">Chance</style> to heal nearby players for <style=""Green"">{0}</style> HP","使用医疗包有<style=""Chance"">几率</style>治疗附近的玩家<style=""Green"">{0}</style>生命值","의료 키트 사용 시 <style=""Chance"">확률</style>로 주변 플레이어를 <style=""Green"">{0}</style> 체력만큼 치유한다"
+172242188255158272,description_perk_sharing_is_caring_ii,"Using a medkit has a <style=""Chance"">Chance</style> to heal nearby players for <style=""Green"">{0}</style> HP","使用医疗包有<style=""Chance"">几率</style>治疗附近的玩家<style=""Green"">{0}</style>生命值","의료 키트 사용 시 <style=""Chance"">확률</style>로 주변 플레이어를 <style=""Green"">{0}</style> 체력만큼 치유함"
 173731183526993920,title_mod_spread,Spread mod,杀伤面模组,탄퍼짐 모드
 173731183543771136,description_mod_spread,"Increase spread by <style=""Green"">{0}</style> and pellet amount by <style=""Green"">{1}</style>","将散布增加 <style=""Green"">{0}</style>，将弹丸数量增加 <style=""Green"">{1}</style>","탄퍼짐이 <style=""Green"">{0}</style> 증가, 산탄 수가 <style=""Green"">{1}</style> 증가"
 174525310171299840,title_mod_fire,Fire bullets,火焰子弹,화염 탄환
-174525310188077056,description_mod_fire,"Bullets become <style=""Fire""> incendiary</style> and apply damage over time to enemies","子弹有<style=""Fire"">燃烧</style>效果，对敌人持续造成伤害","탄환에 <style=""Fire""> 소이</style> 효과가 추가되어 적에게 지속 피해를 준다"
+174525310188077056,description_mod_fire,"Bullets become <style=""Fire""> incendiary</style> and apply damage over time to enemies","子弹有<style=""Fire"">燃烧</style>效果，对敌人持续造成伤害","탄환에 <style=""Fire""> 소이</style> 효과가 추가되어 적에게 지속 피해를 줌"
 174525310188077057,title_mod_ice,Ice bullets,冰冻子弹,빙결 탄환
 174525310188077058,description_mod_ice,"Bullets are replaced with <style=""Ice""> cryogenic rounds</style> that slow enemies","替换为<style=""Ice"">低温子弹</style>，造成敌人减速","탄환이 <style=""Ice""> 극저온탄</style>으로 교체되어 적을 둔화"
 174525310188077059,title_mod_electric,Electric bullets,电击子弹,전기 탄환
@@ -894,11 +894,11 @@ Spend your <sprite=26> cans to unlock new perks, starter weapons and gun mods","
 210306590925447168,card rarity rare,Rare,稀有,희귀
 210306590925447169,card rarity legendary,Legendary,传奇,전설
 210555608721735680,title_mod_expandedload,Expanded Load,扩展装填,확장 장전
-210555608738512896,description_mod_expandedload,"<style=""Green"">{0}</style> shotgun pellet added for each {1}s of reload time","每{1}秒的装填时间会额外增加<style=""Green"">{0}</style>颗霰弹","장전 시간 {1}초마다 산탄총 산탄 <style=""Green"">{0}</style>발이 추가된다"
+210555608738512896,description_mod_expandedload,"<style=""Green"">{0}</style> shotgun pellet added for each {1}s of reload time","每{1}秒的装填时间会额外增加<style=""Green"">{0}</style>颗霰弹","장전 시간 {1}초마다 산탄총 산탄 <style=""Green"">{0}</style>발이 추가됨"
 210555608738512897,title_mod_tacticalreload,Tactical Reload,战术换弹,전술 장전
 210555608738512898,description_mod_tacticalreload,Gain infinite stamina while reloading your weapon,在换弹过程中获得无限体力,무기 장전 중 무한 스태미나를 획득
 210555608738512899,title_mod_shrapnel,Shrapnel,破片飞溅,파편
-210555608738512900,description_mod_shrapnel,Killing an enemy in one shot will make it explode and cause damage to nearby enemies,一击击杀敌人会引发爆炸，伤害附近的敌人,한 발로 적을 처치하면 폭발하여 주변 적에게 피해를 준다
+210555608738512900,description_mod_shrapnel,Killing an enemy in one shot will make it explode and cause damage to nearby enemies,一击击杀敌人会引发爆炸，伤害附近的敌人,한 발로 적을 처치하면 폭발하여 주변 적에게 피해를 줌
 210601729317879808,title_consumable_decoy,Decoy,诱饵,미끼
 210601729322074112,description_consumable_decoy,A decoy grenade that attracts nearby enemies,吸引附近敌人的诱饵手雷,주변 적을 유인하는 미끼 수류탄
 211661382318874624,title_perk_escape_plan,Escape Plan,逃脱计划,탈출 계획
@@ -2286,10 +2286,10 @@ From Baxter","购买
 303691108587880448,title_perk_exploding_decoy,Exploding Decoy,爆炸诱饵,폭발 미끼
 303691108617240576,description_perk_exploding_decoy,"When Alfred throws a decoy, it will explode when finished.",当阿尔弗雷德投出诱饵时，它在结束时会爆炸。,앨프레드가 미끼를 던지면 끝날 때 폭발.
 303704925819953152,title_perk_cluster_grenade,Cluster Grenade,集束手雷,집속 수류탄
-303704925840924672,description_perk_cluster_grenade,"When a grenade explodes there is a <style=""Chance"">Chance</style> it will explode into 6 smaller grenades","手雷爆炸时，有<style=""Chance"">几率</style>分裂成6个小型手雷","수류탄 폭발 시 <style=""Chance"">확률</style>로 6개의 소형 수류탄으로 분열한다"
+303704925840924672,description_perk_cluster_grenade,"When a grenade explodes there is a <style=""Chance"">Chance</style> it will explode into 6 smaller grenades","手雷爆炸时，有<style=""Chance"">几率</style>分裂成6个小型手雷","수류탄 폭발 시 <style=""Chance"">확률</style>로 6개의 소형 수류탄으로 분열"
 303760799361253376,title_sawblade,Meat Spinner,绞肉者,고기 분쇄기
 303854288379265024,title_perk_minimum_effort,Minimum Effort,最低努力,누워서 떡 먹기
-303854288400236544,description_perk_minimum_effort,"Alfred does <style=""Green"">{0}</style> more damage if he hasn’t dashed for {1} seconds","Alfred在{1}秒内未冲刺时，造成<style=""Green"">{0}</style>额外伤害","앨프레드가 {1}초 동안 대시하지 않으면 <style=""Green"">{0}</style>의 추가 피해를 준다"
+303854288400236544,description_perk_minimum_effort,"Alfred does <style=""Green"">{0}</style> more damage if he hasn’t dashed for {1} seconds","Alfred在{1}秒内未冲刺时，造成<style=""Green"">{0}</style>额外伤害","앨프레드가 {1}초 동안 대시하지 않으면 <style=""Green"">{0}</style>의 추가 피해를 줌"
 303874238981193728,title_mod_alphadamage,Alpha Hunter,阿尔法猎手,알파 사냥꾼
 303874239014748160,description_mod_alphadamage,"Increase damage to Alpha Enemies by <style=""Green"">{0}</style>",,"알파 적에 대한 피해가 <style=""Green"">{0}</style> 증가"
 304055900901851136,weapon_type_skin,{0} skin,{0} 皮肤,{0} 스킨
@@ -2316,7 +2316,7 @@ From Baxter","购买
 304056535403577349,title_weapon_shotgun_bush,Boomstick Shotty,轰棒霰,붐스틱 샷티
 304056535403577350,title_weapon_smg_bush,Bushwhack SMG,伏击 SMG,부시왝 SMG
 304089747566419968,title_perk_cryogrenade,Cryo Grenade,冰冻手雷,빙결 수류탄
-304089747591585792,description_perk_cryogrenade,"Upgrade your grenades to become <style=""Ice""> Cryo Grenades </style>","升级你的手雷，使其成为<style=""Ice"">冰冻手雷</style>","수류탄을 <style=""Ice""> 빙결 수류탄</style>으로 업그레이드한다"
+304089747591585792,description_perk_cryogrenade,"Upgrade your grenades to become <style=""Ice""> Cryo Grenades </style>","升级你的手雷，使其成为<style=""Ice"">冰冻手雷</style>","수류탄을 <style=""Ice""> 빙결 수류탄</style>으로 업그레이드"
 304100887726604288,baxters_unlock_weaponskin,Unlock this <b>skin</b> for the '<b>{0}</b>' starter weapon,解锁 '<b>{0}</b>' 初始武器的<b>皮肤</b>,'<b>{0}</b>' 초기 무기의 <b>스킨</b> 해금
 304113047329161216,GS_COMPLETE_ALPHAHUNTER,Alpha Hunter,阿尔法猎手,알파 헌터
 304113047358521344,GS_COMPLETE_ALPHAHUNTER_description,Kill 50 Alpha enemies,击杀50个阿尔法敌人,알파 적 50마리 처치
@@ -2326,15 +2326,15 @@ From Baxter","购买
 305884229669863424,trait_statusicedamage,"{0} Damage to <style=""Ice""> frozen</style> Enemies","对<style=""Ice"">冻结</style>敌人造成 {0} 伤害","<style=""Ice""> 동결</style> 적에게 {0} 피해"
 305884229703417856,trait_statusfiredamage,"{0} Damage to Enemies <style=""Fire""> on fire</style>","对<style=""Fire"">着火</style>敌人造成 {0} 伤害","<style=""Fire""> 점화</style> 적에게 {0} 피해"
 305884229703417857,title_mod_statusdamage_fire,Fire Fighter Mod,火焰斗士模组,화염 전사 모드
-305884229703417858,description_mod_statusdamage_fire,"Deal <style=""Green"">{0}</style> Extra Damage to Enemies that is set <style=""Fire""> on fire</style> from a weapon","对被武器<style=""Fire"">点燃</style>的敌人造成<style=""Green"">{0}</style>额外伤害","무기로 <style=""Fire""> 점화</style>된 적에게 <style=""Green"">{0}</style>의 추가 피해를 준다"
+305884229703417858,description_mod_statusdamage_fire,"Deal <style=""Green"">{0}</style> Extra Damage to Enemies that is set <style=""Fire""> on fire</style> from a weapon","对被武器<style=""Fire"">点燃</style>的敌人造成<style=""Green"">{0}</style>额外伤害","무기로 <style=""Fire""> 점화</style>된 적에게 <style=""Green"">{0}</style>의 추가 피해를 줌"
 305884229703417859,title_mod_statusdamage_ice,Ice Fighter Mod,寒冰斗士模组,빙결 전사 모드
-305884229703417860,description_mod_statusdamage_ice,"Deal <style=""Green"">{0}</style> Extra Damage to Enemies that is <style=""Ice""> frozen</style> from a weapon","对被武器<style=""Ice"">冻结</style>的敌人造成<style=""Green"">{0}</style>额外伤害","무기로 <style=""Ice""> 동결</style>된 적에게 <style=""Green"">{0}</style>의 추가 피해를 준다"
+305884229703417860,description_mod_statusdamage_ice,"Deal <style=""Green"">{0}</style> Extra Damage to Enemies that is <style=""Ice""> frozen</style> from a weapon","对被武器<style=""Ice"">冻结</style>的敌人造成<style=""Green"">{0}</style>额外伤害","무기로 <style=""Ice""> 동결</style>된 적에게 <style=""Green"">{0}</style>의 추가 피해를 줌"
 306985052751642624,title_perk_bile_boots,Bile Boots,胆汁靴,담즙 부츠
 306985052793585664,description_perk_bile_boots,"Immune to bile pools. Get <style=""Green"">{0}</style> bonus damage while standing in bile pools","免疫胆汁池。在胆汁池中站立时获得<style=""Green"">{0}</style>额外伤害","담즙 웅덩이에 면역. 담즙 웅덩이에 서 있는 동안 <style=""Green"">{0}</style>의 추가 피해를 획득"
 306996326180962304,title_perk_ammo_drop_damage,"""Who needs ammo!?""",,"""탄약 따위 누가 필요해!?"""
 306996326185156608,description_perk_ammo_drop_damage,"Get <style=""Green"">{0}</style> damage for Ammo Crate used. (<style=""Green"">{1}</style> used, currently <style=""Green"">{2}</style> damage)",,"탄약 보급 상자 사용 시 <style=""Green"">{0}</style>의 피해를 획득. (사용 <style=""Green"">{1}</style>회, 현재 <style=""Green"">{2}</style> 피해)"
 309236540692971520,title_perk_drone_decoy,Decoy,诱饵,미끼
-309236540722331648,description_perk_drone_decoy,"When you reload there is a <style=""Chance"">Chance</style> that the drone becomes a decoy for a short period","装填时有<style=""Chance"">几率</style>使无人机短暂变成诱饵","장전 시 <style=""Chance"">확률</style>로 드론이 잠시 미끼가 된다"
+309236540722331648,description_perk_drone_decoy,"When you reload there is a <style=""Chance"">Chance</style> that the drone becomes a decoy for a short period","装填时有<style=""Chance"">几率</style>使无人机短暂变成诱饵","장전 시 <style=""Chance"">확률</style>로 드론이 잠시 미끼가 됨"
 309236540722331649,title_perk_drone_reloadpower,Reload power,装填强化,장전 강화
 309236540722331650,description_perk_drone_reloadpower,"When you reload, your drone enters a frenzy with increased damage and fire rate",装填时无人机进入狂暴状态，伤害和射速提升,장전 시 드론이 광폭 상태에 진입하여 피해와 연사 속도가 증가
 309236540722331651,title_perk_drone_damage,Damage,伤害,피해량
@@ -2344,7 +2344,7 @@ From Baxter","购买
 309236540722331655,title_perk_drone_electric,Electric bullets,电击子弹,전기 탄환
 309236540722331656,description_perk_drone_electric,"Drone bullets are replaced with <style=""Lightning""> electrified rounds</style> that spawn chain lightning","无人机子弹替换为<style=""Lightning"">电击弹</style>，触发连锁闪电","드론 탄환이 <style=""Lightning""> 전격탄</style>으로 교체되어 연쇄 전격을 발생"
 309236540722331657,title_perk_drone_fire,Fire bullets,燃烧子弹,화염 탄환
-309236540722331658,description_perk_drone_fire,"Drone bullets become <style=""Fire""> incendiary</style> and apply damage over time to enemies","无人机子弹变为<style=""Fire"">燃烧</style>并造成持续伤害","드론 탄환이 <style=""Fire""> 소이탄</style>으로 변하여 적에게 지속 피해를 준다"
+309236540722331658,description_perk_drone_fire,"Drone bullets become <style=""Fire""> incendiary</style> and apply damage over time to enemies","无人机子弹变为<style=""Fire"">燃烧</style>并造成持续伤害","드론 탄환이 <style=""Fire""> 소이탄</style>으로 변하여 적에게 지속 피해를 줌"
 309236540722331659,title_perk_drone_ice,Ice bullets,冰冻子弹,빙결 탄환
 309236540722331660,description_perk_drone_ice,"Drone bullets are replaced with <style=""Ice""> cryogenic rounds</style> that slow enemies","无人机子弹替换为<style=""Ice"">冷冻弹</style>，减速敌人","드론 탄환이 <style=""Ice""> 극저온탄</style>으로 교체되어 적을 둔화"
 309236540722331661,title_perk_drone_shotgun,Shotgun,霰弹枪,산탄총
@@ -2369,9 +2369,9 @@ From Baxter","购买
 323992898575220739,title_mod_statusvampire_ice,Vampiric Icefighter,,빙결 흡혈
 323992898575220740,description_mod_statusvampire_ice,"Gain <style=""Green"">{0}</style> temporary health  when killing Enemies that are <style=""Ice""> frozen</style> ",,"<style=""Ice""> 동결</style>된 적 처치 시 <style=""Green"">{0}</style>의 임시 체력을 획득"
 323992898575220741,title_mod_mk1,Replicator MK1,,복제기 MK1
-323992898575220742,description_mod_mk1,"<style=""Green"">{0}</style> of your other weapon's total damage gets transferred to this weapon's damage",,"다른 무기 총 피해의 <style=""Green"">{0}</style>이 이 무기의 피해에 전이된다"
+323992898575220742,description_mod_mk1,"<style=""Green"">{0}</style> of your other weapon's total damage gets transferred to this weapon's damage",,"다른 무기 총 피해의 <style=""Green"">{0}</style>이 이 무기의 피해에 전이됨"
 323992898575220743,title_mod_mk2,Replicator MK2,,복제기 MK2
-323992898575220744,description_mod_mk2,"<style=""Green"">{0}</style> of your other weapon's bonus damage gets transferred to this weapon's damage",,"다른 무기 보너스 피해의 <style=""Green"">{0}</style>이 이 무기의 피해에 전이된다"
+323992898575220744,description_mod_mk2,"<style=""Green"">{0}</style> of your other weapon's bonus damage gets transferred to this weapon's damage",,"다른 무기 보너스 피해의 <style=""Green"">{0}</style>이 이 무기의 피해에 전이됨"
 323992898591997952,multiplayer_run_status_boss,Boss Battle,Boss战,보스전
 323992898591997953,multiplayer_mission_status,Mission Status,任务状态,임무 상태
 326508593159106560,ui_multiplayer_wait,Wait {0},等待 {0},{0} 대기
@@ -2379,9 +2379,9 @@ From Baxter","购买
 326536198242910208,title_perk_medicalpremium,Medical Premium,医疗奖励,의료 보상
 326536198263881728,description_perk_medicalpremium,"Get <style=""Green"">{0}</style> <sprite=19 tint=1> Cash when healing a teammate","为队友治疗时获得<style=""Green"">{0}</style><sprite=19 tint=1>现金","아군 치료 시 <style=""Green"">{0}</style> <sprite=19 tint=1> 캐시를 획득"
 326536198263881729,title_perk_razorblade,Razor Blade,剃刀之刃,면도날
-326536198263881730,description_perk_razorblade,"Killing a bleeding enemy restores {0} temporary HP (<style=""Green"">{1}s</style> cooldown). Power Tackle cause bleeding.","击杀流血敌人恢复{0}临时生命值 (<style=""Green"">{1}s</style>冷却)。强力冲撞会造成流血。","출혈 중인 적 처치 시 {0}의 임시 체력을 회복 (<style=""Green"">{1}초</style> 쿨다운). 강력 돌진은 출혈을 유발한다."
+326536198263881730,description_perk_razorblade,"Killing a bleeding enemy restores {0} temporary HP (<style=""Green"">{1}s</style> cooldown). Power Tackle cause bleeding.","击杀流血敌人恢复{0}临时生命值 (<style=""Green"">{1}s</style>冷却)。强力冲撞会造成流血。","출혈 중인 적 처치 시 {0}의 임시 체력을 회복 (<style=""Green"">{1}초</style> 쿨다운). 강력 돌진은 출혈 유발."
 326536198263881731,title_perk_lightningstatus,Lightning Mittens,,전격 장갑
-326536198263881732,description_perk_lightningstatus,"Deal <style=""Green"">{0}</style> extra damage to enemies that are <style=""Lightning""> electrified</style> from a weapon",,"무기로 <style=""Lightning""> 감전</style>된 적에게 <style=""Green"">{0}</style>의 추가 피해를 준다"
+326536198263881732,description_perk_lightningstatus,"Deal <style=""Green"">{0}</style> extra damage to enemies that are <style=""Lightning""> electrified</style> from a weapon",,"무기로 <style=""Lightning""> 감전</style>된 적에게 <style=""Green"">{0}</style>의 추가 피해를 줌"
 326536198263881733,title_perk_vampiriclightning,Electric Vampire,,전격 뱀파이어
 326536198263881734,description_perk_vampiriclightning,"Gain <style=""Green"">{0}</style> temporary health when killing enemies that are <style=""Lightning""> electrified</style> ",,"<style=""Lightning""> 감전</style>된 적 처치 시 <style=""Green"">{0}</style>의 임시 체력을 획득"
 326536198263881735,title_perk_knuckleduster,Knuckle Duster,指虎,너클 더스터
@@ -2397,16 +2397,16 @@ Tinket","替换
 326870370631839746,card type trinket,Trinket,饰品,장신구
 326920765295063040,shop_trinkets,Trinkets,饰品,장신구
 326974555691368448,title_perk_chemicalcatalyst,Chemical Catalyst,化学催化剂,화학 촉매
-326974555716534272,description_perk_chemicalcatalyst,"<style=""Green"">{0}</style> bonus damage to enemies affected by an element when you hit it with a different element","用不同元素攻击带有元素效果的敌人时，造成<style=""Green"">{0}</style>额外伤害","원소 효과를 받는 적을 다른 원소로 공격 시 <style=""Green"">{0}</style>의 추가 피해를 준다"
+326974555716534272,description_perk_chemicalcatalyst,"<style=""Green"">{0}</style> bonus damage to enemies affected by an element when you hit it with a different element","用不同元素攻击带有元素效果的敌人时，造成<style=""Green"">{0}</style>额外伤害","원소 효과를 받는 적을 다른 원소로 공격 시 <style=""Green"">{0}</style>의 추가 피해를 줌"
 327254378905628672,announcement_bought_trinket,{0} got the '{1}' trinket,{0}获得了“{1}”饰品,{0}이(가) '{1}' 장신구를 획득했다
 328385932972736512,title_perk_cilice,Bloody Headband,血染头带,피묻은 머리띠
-328385933014679552,description_perk_cilice,"Gives <style=""Green"">{0}</style> bonus damage for every HP you are missing","每损失1点生命值，获得<style=""Green"">{0}</style>额外伤害","잃은 체력 1당 <style=""Green"">{0}</style>의 추가 피해를 준다"
+328385933014679552,description_perk_cilice,"Gives <style=""Green"">{0}</style> bonus damage for every HP you are missing","每损失1点生命值，获得<style=""Green"">{0}</style>额外伤害","잃은 체력 1당 <style=""Green"">{0}</style>의 추가 피해를 줌"
 328709179798929408,title_perk_skippingstone,Skipping Stone,跳跃之石,물수제비 돌
 328709179828289536,description_perk_skippingstone,"<style=""Green"">{0}</style> extra <sprite=19 tint=1> Cash when skipping crates","跳过补给箱时获得<style=""Green"">{0}</style><sprite=19 tint=1>额外现金","보급 상자 건너뛰기 시 <style=""Green"">{0}</style> <sprite=19 tint=1> 추가 캐시를 획득"
 328709179828289537,title_perk_coinpurse,Coin Purse,钱袋,동전 지갑
 328709179828289538,description_perk_coinpurse,"Get <style=""Green"">+{0}</style> extra <sprite=19 tint=1> Cash from Cash pickups","拾取现金时获得<style=""Green"">+{0}</style><sprite=19 tint=1>额外现金","캐시 줍기 시 <style=""Green"">+{0}</style> <sprite=19 tint=1> 추가 캐시를 획득"
 328709179828289539,title_perk_weirdmushroom,Weird Mushroom,奇怪的蘑菇,이상한 버섯
-328709179828289540,description_perk_weirdmushroom,"Suffer no slowdown in corruption. <style=""Green"">{0}</style> bonus damage against enemies in corruption","在腐化区域中不受减速影响。对腐化中的敌人造成<style=""Green"">{0}</style>额外伤害","오염 지대에서 둔화되지 않는다. 오염 지대의 적에게 <style=""Green"">{0}</style>의 추가 피해를 준다"
+328709179828289540,description_perk_weirdmushroom,"Suffer no slowdown in corruption. <style=""Green"">{0}</style> bonus damage against enemies in corruption","在腐化区域中不受减速影响。对腐化中的敌人造成<style=""Green"">{0}</style>额外伤害","오염 지대에서 둔화 없음. 오염 지대의 적에게 <style=""Green"">{0}</style>의 추가 피해를 줌"
 328709179828289541,title_perk_survivalkit,Survival Kit,生存套装,생존 키트
 328709179828289542,description_perk_survivalkit,"Recover up to <style=""Green"">{0}</style> of max health between missions. Temporary HP depletes <style=""Green"">{1}</style> slower","任务之间恢复最多<style=""Green"">{0}</style>的最大生命值。临时生命值流失速度减慢<style=""Green"">{1}</style>","임무 사이에 최대 체력의 <style=""Green"">{0}</style>을 회복. 임시 체력 감소 속도가 <style=""Green"">{1}</style> 느려짐"
 328718722095702016,bileboots_description,Kill {0} enemies while standing in bile pools,在胆汁池中站立时击杀{0}名敌人,담즙 웅덩이에 서서 적 {0}마리 처치
@@ -2425,13 +2425,13 @@ Tinket","替换
 328800470011797504,description_perk_mutant_teeth_necklace,"Increase damage to Alpha Enemies by <style=""Green"">{0}</style>","对阿尔法敌人造成的伤害提高<style=""Green"">{0}</style>","알파 적에 대한 피해가 <style=""Green"">{0}</style> 증가"
 328800470011797505,mutant_teeth_necklace_description,Kill {0} Alpha Enemies,击杀{0}名阿尔法敌人,알파 적 {0}마리 처치
 328800470011797506,title_perk_mirror,Mirror,镜像,미러
-328800470011797507,description_perk_mirror,"<style=""Green"">{0}</style> of your other weapon's total damage gets transferred to this weapon's damage","另一把武器总伤害的<style=""Green"">{0}</style>会转移到此武器的伤害上","다른 무기 총 피해의 <style=""Green"">{0}</style>이 이 무기의 피해에 전이된다"
+328800470011797507,description_perk_mirror,"<style=""Green"">{0}</style> of your other weapon's total damage gets transferred to this weapon's damage","另一把武器总伤害的<style=""Green"">{0}</style>会转移到此武器的伤害上","다른 무기 총 피해의 <style=""Green"">{0}</style>이 이 무기의 피해에 전이됨"
 328800470011797508,mirror_description,Complete {0} missions while having two weapons,持有两把武器完成{0}次任务,무기 두 자루 보유 상태로 임무 {0}회 완료
 329070069468131328,ui_trinket_complete,COMPLETE,已完成,완료
 329072078962769920,title_perk_spectacles,Spectacles,侦察眼镜,탐지 안경
-329072078983741440,description_perk_spectacles,"Highlights secret clues. Gives <style=""Green"">+{0}</style> cans to the team when entering a hidden bunker","高亮隐藏线索。进入隐藏地堡时为团队提供<style=""Green"">+{0}</style>罐头","비밀 단서를 강조 표시한다. 숨겨진 벙커 진입 시 팀에 <style=""Green"">+{0}</style> 캔을 제공한다"
+329072078983741440,description_perk_spectacles,"Highlights secret clues. Gives <style=""Green"">+{0}</style> cans to the team when entering a hidden bunker","高亮隐藏线索。进入隐藏地堡时为团队提供<style=""Green"">+{0}</style>罐头","비밀 단서를 강조 표시. 숨겨진 벙커 진입 시 팀에 <style=""Green"">+{0}</style> 캔 제공"
 329072078983741441,title_perk_piggybank,Piggy Bank,存钱罐,저금통
-329072078983741442,description_perk_piggybank,"Immediately <style=""Green"">{0}x</style> your current <sprite=19 tint=1> Cash","立即将当前<sprite=19 tint=1>现金乘以<style=""Green"">{0}x</style>","현재 <sprite=19 tint=1> 캐시를 즉시 <style=""Green"">{0}x</style>배로 늘린다"
+329072078983741442,description_perk_piggybank,"Immediately <style=""Green"">{0}x</style> your current <sprite=19 tint=1> Cash","立即将当前<sprite=19 tint=1>现金乘以<style=""Green"">{0}x</style>","현재 <sprite=19 tint=1> 캐시를 즉시 <style=""Green"">{0}x</style>배로 증가"
 329148456445206528,spectacles_description,Enter {0} hidden bunkers,进入{0}个隐藏地堡,숨겨진 벙커 {0}개 진입
 329148456470372352,piggybank_description,Spend {0} <sprite=19 tint=1> Cash,花费{0}<sprite=19 tint=1>现金,캐시 {0} <sprite=19 tint=1> 소비
 329150166504890368,ricochet_description,Kill {0} enemies with bouncing bullets,使用反弹子弹击杀{0}名敌人,반사 탄환으로 적 {0}마리 처치
@@ -2472,15 +2472,15 @@ Tinket","替换
 336030974205288448,GS_COMPLETE_PLAYERRANK_LEVEL_11,Up-and-comer,新秀,신예
 336030974230454272,GS_COMPLETE_PLAYERRANK_LEVEL_11_description,Reach Player Rank {0},达到玩家等级{0},플레이어 랭크 {0} 달성
 336339253960327168,title_mod_trident,Trident,三叉戟,삼지창
-336339253981298688,description_mod_trident,"Adds a <style=""Chance"">Chance</style> to fire three bullets in a spread","增加<style=""Chance"">几率</style>以扇形发射三发子弹","부채꼴로 세 발을 발사할 <style=""Chance"">확률</style>이 추가된다"
+336339253981298688,description_mod_trident,"Adds a <style=""Chance"">Chance</style> to fire three bullets in a spread","增加<style=""Chance"">几率</style>以扇形发射三发子弹","부채꼴로 세 발을 발사할 <style=""Chance"">확률</style>이 추가됨"
 336339253981298689,title_mod_splintershellpistol,Piercing bullets,穿透子弹,관통 탄환
 336339253981298690,description_mod_splintershellpistol,Bullets penetrates the first target. Adds bleeding effect to everything it hits,子弹穿透第一个目标。对命中的所有敌人施加流血效果,탄환이 첫 번째 대상을 관통한다. 명중한 모든 적에게 출혈 효과를 부여한다
 336677671030439936,mutator_alphaincrease,{0} more Alpha Enemies,增加{0}名阿尔法敌人,알파 적 {0}마리 추가
 336677671068188672,mutator_removeconsumable,"<b><style=""Heated"">No Consumables</b></style>","<b><style=""Heated"">无消耗品</b></style>","<b><style=""Heated"">소모품 없음</b></style>"
 337195562221912064,title_mod_rainbowfortune,Rainbow Fortune,彩虹之运,무지개 행운
-337195562247077888,description_mod_rainbowfortune,"Adds a <style=""Chance"">Chance</style> to apply a random element to your shot","增加<style=""Chance"">几率</style>为射击附加随机元素","사격에 랜덤 원소가 부여될 <style=""Chance"">확률</style>이 추가된다"
+337195562247077888,description_mod_rainbowfortune,"Adds a <style=""Chance"">Chance</style> to apply a random element to your shot","增加<style=""Chance"">几率</style>为射击附加随机元素","사격에 랜덤 원소가 부여될 <style=""Chance"">확률</style>이 추가됨"
 337435236592992256,title_mod_shrapnelchance,Explosive Guts,爆裂内脏,폭발 내장
-337435236618158080,description_mod_shrapnelchance,"Adds a <style=""Chance"">Chance</style> that enemies you kill explode and cause damage to nearby enemies","增加<style=""Chance"">几率</style>使被击杀的敌人爆炸并伤害附近敌人","처치한 적이 폭발하여 주변 적에게 피해를 줄 <style=""Chance"">확률</style>이 추가된다"
+337435236618158080,description_mod_shrapnelchance,"Adds a <style=""Chance"">Chance</style> that enemies you kill explode and cause damage to nearby enemies","增加<style=""Chance"">几率</style>使被击杀的敌人爆炸并伤害附近敌人","처치한 적이 폭발하여 주변 적에게 피해를 줄 <style=""Chance"">확률</style>이 추가됨"
 338531844764155904,difficulty_select_title,Select Expedition,选择远征,원정 선택
 338560974527717376,vampire_description,"Restore {0} temporary health by killing enemies affected by an element, while using a weapon with a different element",使用不同元素武器击杀带有元素效果的敌人可恢复{0}临时生命值,다른 원소 무기로 원소 영향을 받는 적 처치 시 임시 체력 {0} 회복
 339242859273940992,ui_waiting_for_players,Waiting for joining players,正在等待玩家加入,참가하는 플레이어 대기 중
