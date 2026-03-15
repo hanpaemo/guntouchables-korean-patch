@@ -23,7 +23,7 @@ He has access to meds and carries an electric saw that cuts through bone and tis
 50306303103001,description_class_sharpshooter,"Recreational hunter with 1,000 theories on why the apocalypse happened.
 Some call Alfred paranoid, and he might still think this is all just a simulation, but no one calls him a bad shot.","阿尔弗雷德是一个玩世不恭的猎人，他脑子里有着上千种世界末日的爆发理论。
 有人说他是一个偏执狂，他可能也不否认这一点，但没人说他枪法差。","종말이 왜 일어났는지에 대한 이론만 1,000가지인 취미 사냥꾼. 편집증이라고? 이 세상이 시뮬레이션이어도 상관없다. 적어도 총은 잘 쏘니까."
-50306303103002,title_class_commando,"""Big Bang""",“Ｂ先生”,"""빅뱅"""
+50306303103002,title_class_commando,"""Big Bang""",“Ｂ先生”,'빅뱅'
 50306303103003,description_class_commando,"Before the apocalypse, “Big Bang” Barry Backhausen was an outlaw biker (Hammerheads MC) moonlighting as a pro wrestler. He’s got a flair for bravado, big noise and even bigger explosions, and the hardware to back it up.",在世界末日来临之前，“Ｂ先生”巴里-巴斯豪森（Barry Backhausen）是一名非法摩托车手（锤头鲨 MC），他还有一个专业摔跤手的兼职。他喜欢逞强，嗓门巨大，还掌握着大威力炸药，关键是他真的有这些东西。,"종말 전, ''빅뱅'' 배리 바크하우젠은 프로레슬러를 부업으로 뛰는 무법 바이커(해머헤드 MC)였다. 허세, 굉음, 그보다 더 큰 폭발을 사랑한다. 그리고 그걸 실현할 화력도 갖고 있다."
 50306303103012,title_perk_field medic,Field Medic,战地医护,야전 의무병
 50306303103013,description_perk_field medic,"Resurrect <style=""Green"">{0}</style> faster. Medkits are <style=""Green"">{1}</style> more effective","恢复速度加快<style=""Green"">{0}</style>。医疗包效果增加<style=""Green"">{1}</style>","부활 속도가 <style=""Green"">{0}</style> 빨라짐. 의료 키트 효과가 <style=""Green"">{1}</style> 증가"
@@ -604,7 +604,7 @@ I'll be waiting for you at the <nobr><sprite=25 color=#ffd500><style=Exit>car</s
  
 <b>撤离点：</b> 
 我会在 <nobr><sprite=25 color=#ffd500><style=Exit>车</style></nobr> 里等你，就在路的尽头。","<b>작전:</b> 
-""{1}""
+'{1}'
  
 <b>목표:</b> 
 변이체가 찰리의 오두막을 점령했다. 안에 있는 <nobr><sprite=20 color=#008EAD> <style=ObjectiveBlue>금고</style></nobr>를 회수하라.
@@ -1023,7 +1023,7 @@ Recover the <nobr><sprite=28 color=#008EAD> <style=ObjectiveBlue>Drones</style><
 <b>目标：</b>
 找回<nobr><sprite=28 color=#008EAD><style=ObjectiveBlue>无人机</style></nobr>，或是它们的零件。","<size=1.5em><b>{1}</b></size>
 
-""프라임필드 물류 야적장""의 오래된 배송 드론이 아직 돌아다니고 있을 수 있다. 정찰, 배송, 방어에 매우 유용하다.
+'프라임필드 물류 야적장'의 오래된 배송 드론이 아직 돌아다니고 있을 수 있다. 정찰, 배송, 방어에 매우 유용하다.
 
 <b>목표:</b> 
 <nobr><sprite=28 color=#008EAD> <style=ObjectiveBlue>드론</style></nobr>을 회수하라. 남은 것이라도."
@@ -1118,7 +1118,7 @@ Get in, barter, and get to the truck with the <nobr><sprite=20 color=#008EAD> <s
 <b>目标：</b>
 进屋子里，以物易物，然后带着完好的<nobr><sprite=20 color=#008EAD><style=ObjectiveBlue>啤酒箱</style></nobr>回到卡车那里。","<size=1.5em><b>{1}</b></size>
 
-""양조장인 롤로""가 숲속 오두막에서 맥주를 이상한 것들과 교환하며 살고 있다. 우리는 그의 계절 한정 맥주 '홉파칼립스 레드'를 원한다.
+'양조장인 롤로'가 숲속 오두막에서 맥주를 이상한 것들과 교환하며 살고 있다. 우리는 그의 계절 한정 맥주 '홉파칼립스 레드'를 원한다.
 
 <b>목표:</b>
 들어가서 물물교환하고, <nobr><sprite=20 color=#008EAD><style=ObjectiveBlue>맥주 상자</style></nobr>를 온전히 트럭까지 가져와라."
@@ -1267,7 +1267,7 @@ Find and eliminate the dosed Targets. Then collect the <nobr><sprite=39 color=#0
 <b>目标：</b> 
 找到并消灭被投药的目标。然后在她转到对照组之前收集<nobr><sprite=39 color=#008EAD><style=ObjectiveBlue>样本</style></nobr>。","<size=1.5em><b>{1}</b></size>
 
-루멘 박사가 ""대사 곡선 연구""를 위해 부패물에 실험 화합물을 주입했다. 이제 그것을 먹은 모든 생물의 혈액 샘플을 원한다.
+루멘 박사가 '대사 곡선 연구'를 위해 부패물에 실험 화합물을 주입했다. 이제 그것을 먹은 모든 생물의 혈액 샘플을 원한다.
 
 <b>목표:</b> 
 투약된 대상을 찾아 제거하라. 그런 다음 대조군으로 넘어가기 전에 <nobr><sprite=39 color=#008EAD><style=ObjectiveBlue>샘플</style></nobr>을 수집하라."
@@ -1301,7 +1301,7 @@ Extract fluid <nobr><sprite=28 color=#008EAD> <style=ObjectiveBlue>Samples</styl
 <b>目标：</b>
 深入巢穴，提取液体<nobr><sprite=28 color=#008EAD><style=ObjectiveBlue>样本</style></nobr>。希望这东西还只是黏黏的。","<size=1.5em><b>{1}</b></size>
 
-루멘 박사가 변이체 둥지에 접근하여 점액을 채취하길 원한다. ""비교 유전체 매핑""을 위한 것이라고 하지만, 지난주에 발효시키려 하기도 했다.
+루멘 박사가 변이체 둥지에 접근하여 점액을 채취하길 원한다. '비교 유전체 매핑'을 위한 것이라고 하지만, 지난주에 발효시키려 하기도 했다.
 
 <b>목표:</b>
 둥지 깊숙이에서 체액 <nobr><sprite=28 color=#008EAD><style=ObjectiveBlue>샘플</style></nobr>을 채취하라. 그냥 끈적한 것이길 바란다."
@@ -1340,7 +1340,7 @@ Escort the <nobr><sprite=28 color=#008EAD> <style=ObjectiveBlue>Distraction Truc
 <b>目标：</b>
 护送<nobr><sprite=28 color=#008EAD> <style=ObjectiveBlue>假目标卡车</style></nobr>，引诱敌群进入指定的杀伤区。","<size=1.5em><b>{1}</b></size>
 
-휘틀록 일가가 경계 바로 밖에 농산물 시장을 열었다—절임, 피클, 그리고 ""수상 경력 있는"" 잼을 판다고 한다. 문제는 변이체 무리가 냄새를 맡았다는 것이다.
+휘틀록 일가가 경계 바로 밖에 농산물 시장을 열었다—절임, 피클, 그리고 '수상 경력 있는' 잼을 판다고 한다. 문제는 변이체 무리가 냄새를 맡았다는 것이다.
 
 <b>목표:</b>
 <nobr><sprite=28 color=#008EAD> <style=ObjectiveBlue>미끼 트럭</style></nobr>을 호위하여 적 무리를 지정된 킬존으로 유인하라."
@@ -1414,7 +1414,7 @@ Escort “Benny” deep into the <nobr><sprite=28 color=#008EAD> <style=Objectiv
 무너진 줄 알았던 폐지하철 노선으로 변이체가 쏟아져 들어오고 있다. 그 지하 통로가 뒷마당으로 바로 통하는 진입로가 되어버렸다.
 
 <b>행동 목표:</b>
-""베니""를 <nobr><sprite=28 color=#008EAD> <style=ObjectiveBlue>터널</style></nobr> 깊숙이 호위한 후 폭파하여 경로를 차단하라."
+'베니'를 <nobr><sprite=28 color=#008EAD> <style=ObjectiveBlue>터널</style></nobr> 깊숙이 호위한 후 폭파하여 경로를 차단하라."
 237832536851013639,name_side objective_mission_fortifytheline,Fortify The Line,大鬼当家,방어선 구축
 237832536851013640,description_side objective_mission_fortifytheline,"<size=1.5em><b>{1}</b></size>
 
@@ -1450,7 +1450,7 @@ Free the <nobr><sprite=38 color=#008EAD> <style=ObjectiveBlue>Cosplayers</style>
 <b>目标：</b>
 解救<nobr><sprite=38 color=#008EAD> <style=ObjectiveBlue>扮装者</style></nobr>，护送他们逃脱。尽量别让他们再即兴发挥了。","<size=1.5em><b>{1}</b></size>
 
-정찰대에게서 다급한 연락이 왔다. 스캐빈저 작전 중 변이체 복장을 하면 ""섞여들 수 있을 거""라 생각했다고 한다. 결국 주차장에 몰려 점점 더 나쁜 상황에 처해 있다.
+정찰대에게서 다급한 연락이 왔다. 스캐빈저 작전 중 변이체 복장을 하면 '섞여들 수 있을 거'라 생각했다고 한다. 결국 주차장에 몰려 점점 더 나쁜 상황에 처해 있다.
 
 <b>목표:</b>
 <nobr><sprite=38 color=#008EAD> <style=ObjectiveBlue>코스플레이어</style></nobr>를 구출하고 탈출시켜라. 그들의 즉흥 행동을 부추기지 마라."
@@ -1467,7 +1467,7 @@ Recover the <nobr><sprite=33 color=#008EAD> <style=ObjectiveBlue>Package</style>
 <b>目标：</b>
 回收<nobr><sprite=33 color=#008EAD> <style=ObjectiveBlue>包裹</style></nobr>。希望还能用。","<size=1.5em><b>{1}</b></size>
 
-완전한 노래방 기계를 실은 배송 드론이 델타 전초기지 북쪽 2마일 부근에 추락했다. ""Total Eclipse of the Heart""를 무한 반복하며 변이체의 관심을 끌고 있다.
+완전한 노래방 기계를 실은 배송 드론이 델타 전초기지 북쪽 2마일 부근에 추락했다. 'Total Eclipse of the Heart'를 무한 반복하며 변이체의 관심을 끌고 있다.
 
 <b>목표:</b>
 <nobr><sprite=33 color=#008EAD> <style=ObjectiveBlue>소포</style></nobr>를 회수하라. 작동 상태였으면 좋겠다."
@@ -1501,7 +1501,7 @@ Install a <nobr><sprite=28 color=#008EAD> <style=ObjectiveBlue>solar panel</styl
 <b>目标：</b>
 安装<nobr><sprite=28 color=#008EAD> <style=ObjectiveBlue>太阳能板</style></nobr>，并提供给他大量补给。给电池充满电可能要花几个星期——可真是遥遥落后。","<size=1.5em><b>{1}</b></size>
 
-""에코"" 데이브는 전기 SUV만 탄다. 지금은 배터리가 방전된 채 변이체 영역에 좌초되었지만, 그의 낙관주의는 여전히 견고하다.
+'에코' 데이브는 전기 SUV만 탄다. 지금은 배터리가 방전된 채 변이체 영역에 좌초되었지만, 그의 낙관주의는 여전히 견고하다.
 
 <b>목표:</b>
 <nobr><sprite=28 color=#008EAD> <style=ObjectiveBlue>태양광 패널</style></nobr>을 설치하고 충분한 보급품을 전달하라. 충전에 몇 주 걸린다는 말은 하지 마라."
@@ -1518,10 +1518,10 @@ Load the <nobr><sprite=28 color=#008EAD> <style=ObjectiveBlue>Train</style></nob
 <b>目标：</b>
 往<nobr><sprite=28 color=#008EAD> <style=ObjectiveBlue>火车</style></nobr>上装载补给，清理轨道。即使在前线，麦克也坚持遵守自己的“时间表”。","<size=1.5em><b>{1}</b></size>
 
-""차장 마이크""는 지하실에서 모형 기차를 돌리곤 했다. 이제 정착지 사이에서 실제 화물을 운반하고 있다.
+'차장 마이크'는 지하실에서 모형 기차를 돌리곤 했다. 이제 정착지 사이에서 실제 화물을 운반하고 있다.
 
 <b>목표:</b>
-<nobr><sprite=28 color=#008EAD> <style=ObjectiveBlue>열차</style></nobr>에 보급품을 싣고 선로를 정리하라. 총탄이 빗발쳐도 ""시간표""를 지키겠다고 고집하는 건 알아서 하라."
+<nobr><sprite=28 color=#008EAD> <style=ObjectiveBlue>열차</style></nobr>에 보급품을 싣고 선로를 정리하라. 총탄이 빗발쳐도 '시간표'를 지키겠다고 고집하는 건 알아서 하라."
 237910613263499264,mutator_enemyspeed,{0} Enemy Speed,{0}敌人速度,{0} 적 속도
 237910613305442304,mutator_playerspeed,{0} Player Speed,{0}玩家速度,{0} 플레이어 속도
 237910613305442305,mutator_challengeroomdifficulty,{0} Fistula difficulty,{0}挑战难度,{0} 주먹구멍 난이도
@@ -1541,7 +1541,7 @@ Collect samples from the <nobr><sprite=27 color=#9a5b7b> <style=Enemy>Breeder</s
 <b>目标：</b> 
 从<nobr><sprite=27 color=#9a5b7b> <style=Enemy>蜘蛛之母</style></nobr>那里收集样本。","<size=1.5em><b>{1}</b></size>
 
-루멘 박사가 알려진 변이체 알 무더기에서 온전한 알을 원한다. ""무한한 가능성이 진동하고 있다""고 확신한다. 
+루멘 박사가 알려진 변이체 알 무더기에서 온전한 알을 원한다. '무한한 가능성이 진동하고 있다'고 확신한다. 
 
 <b>목표:</b> 
 <nobr><sprite=27 color=#9a5b7b> <style=Enemy>브리더</style></nobr>에게서 샘플을 수집하라."
@@ -2013,11 +2013,11 @@ Please quit and reopen the game to update to the newest version.
 282455680988594179,customizeitem_tickcage,Tick in a cage,笼中的蜱虫,새장 속 진드기
 282455680988594180,customizeitem_tickcage_description,"Easy to feed, hard to love.",容易喂养，却难以喜爱。,밥은 잘 먹는데, 정은 안 간다.
 282455680988594181,customizeitem_lavalamp,Lava lamp,熔岩灯,라바 램프
-282455680988594182,customizeitem_lavalamp_description,"The ultimate mood-light, even if the mood is ""desperate survival"".",终极氛围灯，即使氛围是“绝望求生”。,"궁극의 분위기 조명. 그 분위기가 ""절망적 생존""이라 해도."
+282455680988594182,customizeitem_lavalamp_description,"The ultimate mood-light, even if the mood is ""desperate survival"".",终极氛围灯，即使氛围是“绝望求生”。,궁극의 분위기 조명. 그 분위기가 '절망적 생존'이라 해도.
 282455680988594183,customizeitem_cactus,Cactus,仙人掌,선인장
 282455680988594184,customizeitem_cactus_description,"The plant that thrives on neglect. Just like you, really.",靠忽视也能茁壮成长的植物。其实就像你一样。,솔직히 너 같아. 진심으로.
 282455680988594185,customizeitem_welcomehomemat,Welcome home mat,欢迎地垫,환영 매트
-282455680988594186,customizeitem_welcomehomemat_description,A reminder that “home” is now a reinforced concrete tube in the ground.,提醒你，“家”如今只是地底的一根钢筋混凝土管道。,"집"은 이제 철근 콘크리트 관
+282455680988594186,customizeitem_welcomehomemat_description,A reminder that “home” is now a reinforced concrete tube in the ground.,提醒你，“家”如今只是地底的一根钢筋混凝土管道。,집은 이제 철근 콘크리트 관
 282455680988594187,customizeitem_hammock,Hammock,吊床,해먹
 282455680988594188,customizeitem_hammock_description,Two ropes and a dream of better days.,两根绳子和对更好日子的憧憬。,밧줄 두 개와 더 나은 내일에 대한 꿈
 282455680988594189,customizeitem_fridgebed,Fridge bed,冰箱床,냉장고 침대
@@ -2069,7 +2069,7 @@ Please quit and reopen the game to update to the newest version.
 282455680988594239,customizeitem_woodenfloorcabin,Wooden floor pine,松木地板,소나무 바닥
 282455680988594240,customizeitem_woodenfloorcabin_description,Smells like pine and slightly of kerosene.,带点松木香味……夹杂一丝煤油味。,소나무 향이 나며... 약간의 등유 냄새도.
 282455680988594241,customizeitem_woodenfloorbirch,Wooden floor birch,桦木地板,자작나무 바닥
-282455680988594242,customizeitem_woodenfloorbirch_description,Light wood for a “Scandi bunker chic” aesthetic.,浅色木材，成就“北欧地堡风”。,"세련된 스칸디나비안 벙커" 미학
+282455680988594242,customizeitem_woodenfloorbirch_description,Light wood for a “Scandi bunker chic” aesthetic.,浅色木材，成就“北欧地堡风”。,세련된 스칸디나비안 벙커 미학
 282455680988594243,customizeitem_newspaperfloor,Newspaper floor,报纸地板,신문지 바닥
 282455680988594244,customizeitem_newspaperfloor_description,"The ink may fade, but your feet will stay warm. Sorta.",墨迹可能会褪色，但脚会保暖。差不多吧。,"잉크는 바래겠지만, 발은 따뜻할 것이다. 아마도."
 282455680988594245,customizeitem_discofloor,Disco floor,迪斯科地板,디스코 바닥
@@ -2102,7 +2102,7 @@ Please quit and reopen the game to update to the newest version.
 282474205262233610,bunker_obstacle_filtration,Filtration system,过滤系统,정수 시스템
 282474205262233611,bunker_obstacle_filtration_description,A hulking metal contraption that clanks loudly but mostly just drips and wheezes.,笨重的金属装置，响声震天，其实大多只是滴答和喘息。,시끄럽게 쿵쿵거리는 육중한 금속 장치. 대부분 방울방울 떨어지거나 끼익거린다.
 282474205262233612,bunker_obstacle_beercrate,Beer crate,啤酒箱,맥주 상자
-282474205262233613,bunker_obstacle_beercrate_description,"Packed with dusty glass bottles of liquid courage. Half are warm, all are questionable.",装满了布满灰尘的勇气之瓶。一半是温的，全都可疑。,"먼지 쌓인 술기운으로 가득하다. 절반은 미지근하고, 전부 의심스럽다."
+282474205262233613,bunker_obstacle_beercrate_description,"Packed with dusty glass bottles of liquid courage. Half are warm, all are questionable.",装满了布满灰尘的勇气之瓶。一半是温的，全都可疑。,"먼지 쌓인 병들이 가득하다. 절반은 미지근하고, 전부 수상하다."
 282474205262233616,bunker_dart,Dartboard,飞镖盘,다트판
 282474205262233617,bunker_dart_description,A perfect way to pass the end of days… if you can ever scavenge some darts.,末日消遣的完美方式……前提是你能找到几支飞镖。,종말을 보내는 완벽한 방법... 다트를 구할 수 있다면.
 282484659392987136,mutator_cashrewardreduction,{0} Cash,{0} 现金,{0} 캐시
@@ -2331,7 +2331,7 @@ From Baxter","购买
 305884229703417860,description_mod_statusdamage_ice,"Deal <style=""Green"">{0}</style> Extra Damage to Enemies that is <style=""Ice""> frozen</style> from a weapon","对被武器<style=""Ice"">冻结</style>的敌人造成<style=""Green"">{0}</style>额外伤害","무기로 <style=""Ice""> 동결</style>된 적에게 <style=""Green"">{0}</style>의 추가 피해를 줌"
 306985052751642624,title_perk_bile_boots,Bile Boots,胆汁靴,담즙 부츠
 306985052793585664,description_perk_bile_boots,"Immune to bile pools. Get <style=""Green"">{0}</style> bonus damage while standing in bile pools","免疫胆汁池。在胆汁池中站立时获得<style=""Green"">{0}</style>额外伤害","담즙 웅덩이에 면역. 담즙 웅덩이에 서 있는 동안 <style=""Green"">{0}</style>의 추가 피해를 획득"
-306996326180962304,title_perk_ammo_drop_damage,"""Who needs ammo!?""",,"""탄약 따위 누가 필요해!?"""
+306996326180962304,title_perk_ammo_drop_damage,"""Who needs ammo!?""",,'탄약 따위 누가 필요해!?'
 306996326185156608,description_perk_ammo_drop_damage,"Get <style=""Green"">{0}</style> damage for Ammo Crate used. (<style=""Green"">{1}</style> used, currently <style=""Green"">{2}</style> damage)",,"탄약 보급 상자 사용 시 <style=""Green"">{0}</style>의 피해를 획득. (사용 <style=""Green"">{1}</style>회, 현재 <style=""Green"">{2}</style> 피해)"
 309236540692971520,title_perk_drone_decoy,Decoy,诱饵,미끼
 309236540722331648,description_perk_drone_decoy,"When you reload there is a <style=""Chance"">Chance</style> that the drone becomes a decoy for a short period","装填时有<style=""Chance"">几率</style>使无人机短暂变成诱饵","장전 시 <style=""Chance"">확률</style>로 드론이 잠시 미끼가 됨"
