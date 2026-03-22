@@ -125,6 +125,8 @@ def patch_string_table_bundle(translations: dict[int, str]) -> tuple[Path, int, 
             continue
 
         tree = obj.read_typetree()
+        existing_ids = {int(entry["m_Id"]) for entry in tree["m_TableData"]}
+
         for entry in tree["m_TableData"]:
             key_id = int(entry["m_Id"])
             ko = translations.get(key_id, "")
@@ -136,6 +138,26 @@ def patch_string_table_bundle(translations: dict[int, str]) -> tuple[Path, int, 
                 if en:
                     entry["m_Localized"] = en
             total_count += 1
+
+        # Inject entries that exist in EN but not in zh-CN
+        added_count = 0
+        for key_id, en_text in english_map.items():
+            if key_id in existing_ids:
+                continue
+            ko = translations.get(key_id, "")
+            new_entry = {
+                "m_Id": key_id,
+                "m_Localized": ko if ko else en_text,
+                "m_Metadata": {"m_Items": []},
+            }
+            tree["m_TableData"].append(new_entry)
+            if ko:
+                translated_count += 1
+            total_count += 1
+            added_count += 1
+
+        if added_count:
+            print(f"Injected {added_count} new entries into zh-CN bundle")
 
         obj.save_typetree(tree)
         obj.assets_file.mark_changed()
