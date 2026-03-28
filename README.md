@@ -59,7 +59,7 @@ Steam에서 게임 실행 → 설정에서 언어를 **简体中文** 선택
 
 A. Steam이 파일을 덮어쓸 수 있습니다. Releases에서 최신 패치를 다시 설치하세요.
 
-**Q. 글자가 깨지거나 "??"로 나와요**
+**Q. 글자가 깨지거나 '??'로 나와요**
 
 A. 패치 파일 중 `NanumGothic.ttf`와 `Hanpaemo.GUNTOUCHABLES.ManagedFontPatch.dll`이 `Managed` 폴더에 있는지 확인하세요.
 
